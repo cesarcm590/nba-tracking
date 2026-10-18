@@ -1,0 +1,15 @@
+{
+  "last_updated": null,
+  "season": "2026-27",
+  "metrics": {
+    "n_games": 0,
+    "mae_home": null,
+    "mae_away": null,
+    "mae_total": null,
+    "rmse_total": null,
+    "mae_vegas_total": null
+  },
+  "predictions_today": [],
+  "recent_results": [],
+  "injury_report": []
+}
