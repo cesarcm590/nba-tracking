@@ -1,5 +1,5 @@
 {
-  "last_updated": null,
+  "last_updated": "2026-10-18T23:37:45.840170Z",
   "season": "2026-27",
   "metrics": {
     "n_games": 0,
@@ -11,5 +11,1381 @@
   },
   "predictions_today": [],
   "recent_results": [],
-  "injury_report": []
+  "injury_report": [
+    {
+      "team": "",
+      "player": "AJ Dybantsa",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "AJ Dybantsa",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "AJ Dybantsa",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Aaron Nesmith",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Aaron Nesmith",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Aaron Nesmith",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Adem Bona",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Adem Bona",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Adem Bona",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Adou Thiero",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Adou Thiero",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Adou Thiero",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Anfernee Simons",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Anfernee Simons",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Anfernee Simons",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Anthony Black",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Anthony Black",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Anthony Black",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Bam Adebayo",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Bam Adebayo",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Bam Adebayo",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Blake Hinson",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Blake Hinson",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Blake Hinson",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Cameron Carr",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Cameron Carr",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Cameron Carr",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Cason Wallace",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Cason Wallace",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Cason Wallace",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Chet Holmgren",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Chet Holmgren",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Chet Holmgren",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Chris Youngblood",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Chris Youngblood",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Chris Youngblood",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Coby White",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Coby White",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Coby White",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Collin Sexton",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Collin Sexton",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Collin Sexton",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Dean Wade",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Dean Wade",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Dean Wade",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Dejounte Murray",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Dejounte Murray",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Dejounte Murray",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Dereck Lively II",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Dereck Lively II",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Dereck Lively II",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Dominick Barlow",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Dominick Barlow",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Dominick Barlow",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Dru Smith",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Dru Smith",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Dru Smith",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Franz Wagner",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Franz Wagner",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Franz Wagner",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "GG Jackson",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "GG Jackson",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "GG Jackson",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Grant Williams",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Grant Williams",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Grant Williams",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Grayson Allen",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Grayson Allen",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Grayson Allen",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Isaac Okoro",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Isaac Okoro",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Isaac Okoro",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jarace Walker",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jarace Walker",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jarace Walker",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jarred Vanderbilt",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jarred Vanderbilt",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jarred Vanderbilt",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jase Richardson",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jase Richardson",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jase Richardson",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jaylin Williams",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jaylin Williams",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jaylin Williams",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jerami Grant",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jerami Grant",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jerami Grant",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jericho Sims",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jericho Sims",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jericho Sims",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jett Howard",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jett Howard",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jett Howard",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jonathan Isaac",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jonathan Isaac",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jonathan Isaac",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Josh Hart",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Josh Hart",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Josh Hart",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jrue Holiday",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jrue Holiday",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jrue Holiday",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Khalifa Diop",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Khalifa Diop",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Khalifa Diop",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Kon Knueppel",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Kon Knueppel",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Kon Knueppel",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Kylan Boswell",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Kylan Boswell",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Kylan Boswell",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Kyle Filipowski",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Kyle Filipowski",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Kyle Filipowski",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Luke Kennard",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Luke Kennard",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Luke Kennard",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Malik Monk",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Malik Monk",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Malik Monk",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Micah Peavy",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Micah Peavy",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Micah Peavy",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Micah Potter",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Micah Potter",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Micah Potter",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Mouhamed Gueye",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Mouhamed Gueye",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Mouhamed Gueye",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Moussa Diabate",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Moussa Diabate",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Moussa Diabate",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Nae'Qwan Tomlin",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Nae'Qwan Tomlin",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Nae'Qwan Tomlin",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Nate Ament",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Nate Ament",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Nate Ament",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Nate Bittle",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Nate Bittle",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Nate Bittle",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Nic Claxton",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Nic Claxton",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Nic Claxton",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Nikola Topic",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Nikola Topic",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Nikola Topic",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Oso Ighodaro",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Oso Ighodaro",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Oso Ighodaro",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Pelle Larsson",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Pelle Larsson",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Pelle Larsson",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Rocco Zikarsky",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Rocco Zikarsky",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Rocco Zikarsky",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Sam Merrill",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Sam Merrill",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Sam Merrill",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Santi Aldama",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Santi Aldama",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Santi Aldama",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Spencer Jones",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Spencer Jones",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Spencer Jones",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Stephen Curry",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Stephen Curry",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "T.J. McConnell",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "T.J. McConnell",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "T.J. McConnell",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Tacko Fall",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Tacko Fall",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Tacko Fall",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Tarik Biberovic",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Tarik Biberovic",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Tarik Biberovic",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Thomas Sorber",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Thomas Sorber",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Thomas Sorber",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Tobe Awaka",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Tobe Awaka",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Tobe Awaka",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Tobias Harris",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Tobias Harris",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Tobias Harris",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Trey Alexander",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Trey Alexander",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Trey Alexander",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Zach Collins",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Zach Collins",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Zach Collins",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Ariel Hukporti",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Ariel Hukporti",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Ariel Hukporti",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Ben Simmons",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Ben Simmons",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Ben Simmons",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Bradley Beal",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Bradley Beal",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Bradley Beal",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Brandon Ingram",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Brandon Ingram",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Brandon Ingram",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Devin Carter",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Devin Carter",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Devin Carter",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Donte DiVincenzo",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Donte DiVincenzo",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Donte DiVincenzo",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Dylan Cardwell",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Dylan Cardwell",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Dylan Cardwell",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Henri Veesaar",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Henri Veesaar",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Henri Veesaar",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Isaiah Stewart",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Isaiah Stewart",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Isaiah Stewart",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Izaiyah Nelson",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Izaiyah Nelson",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Izaiyah Nelson",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Jamir Watkins",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Jamir Watkins",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Jamir Watkins",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Jayden Quaintance",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Jayden Quaintance",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Jayden Quaintance",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Jimmy Butler III",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Jimmy Butler III",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Jimmy Butler III",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Johnny Furphy",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Johnny Furphy",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Johnny Furphy",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Jordan Miller",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Jordan Miller",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Jordan Miller",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Joshua Jefferson",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Joshua Jefferson",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Joshua Jefferson",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Julian Strawther",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Julian Strawther",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Julian Strawther",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Jusuf Nurkic",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Jusuf Nurkic",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Jusuf Nurkic",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Kristaps Porzingis",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Kristaps Porzingis",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Kristaps Porzingis",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Mark Williams",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Mark Williams",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Mark Williams",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Max Strus",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Max Strus",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Max Strus",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Maxime Raynaud",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Maxime Raynaud",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Maxime Raynaud",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Moses Moody",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Moses Moody",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Moses Moody",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Noah Penda",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Noah Penda",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Noah Penda",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Otega Oweh",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Otega Oweh",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Otega Oweh",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Shaedon Sharpe",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Shaedon Sharpe",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Shaedon Sharpe",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Tristan Vukcevic",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Tristan Vukcevic",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Tristan Vukcevic",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Yanic Konan Niederhauser",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Yanic Konan Niederhauser",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Yanic Konan Niederhauser",
+      "status": "Out"
+    }
+  ]
 }
