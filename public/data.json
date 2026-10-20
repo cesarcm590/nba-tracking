@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T14:38:23.858374Z",
+  "last_updated": "2026-10-20T14:13:54.256729Z",
   "season": "2026-27",
   "metrics": {
     "n_games": 0,
@@ -54,17 +54,22 @@
     },
     {
       "team": "",
+      "player": "Brandin Podziemski",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Bronny James",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
       "player": "Cameron Carr",
       "status": "Day-To-Day"
     },
     {
       "team": "",
-      "player": "Cason Wallace",
-      "status": "Day-To-Day"
-    },
-    {
-      "team": "",
-      "player": "Chet Holmgren",
+      "player": "Charles Bassey",
       "status": "Day-To-Day"
     },
     {
@@ -89,17 +94,7 @@
     },
     {
       "team": "",
-      "player": "Dejounte Murray",
-      "status": "Day-To-Day"
-    },
-    {
-      "team": "",
       "player": "Dereck Lively II",
-      "status": "Day-To-Day"
-    },
-    {
-      "team": "",
-      "player": "Dominick Barlow",
       "status": "Day-To-Day"
     },
     {
@@ -149,11 +144,6 @@
     },
     {
       "team": "",
-      "player": "Jaylin Williams",
-      "status": "Day-To-Day"
-    },
-    {
-      "team": "",
       "player": "Jerami Grant",
       "status": "Day-To-Day"
     },
@@ -170,11 +160,6 @@
     {
       "team": "",
       "player": "Jonathan Isaac",
-      "status": "Day-To-Day"
-    },
-    {
-      "team": "",
-      "player": "Josh Hart",
       "status": "Day-To-Day"
     },
     {
@@ -214,17 +199,7 @@
     },
     {
       "team": "",
-      "player": "Micah Peavy",
-      "status": "Day-To-Day"
-    },
-    {
-      "team": "",
       "player": "Micah Potter",
-      "status": "Day-To-Day"
-    },
-    {
-      "team": "",
-      "player": "Mouhamed Gueye",
       "status": "Day-To-Day"
     },
     {
@@ -245,16 +220,6 @@
     {
       "team": "",
       "player": "Nate Bittle",
-      "status": "Day-To-Day"
-    },
-    {
-      "team": "",
-      "player": "Nic Claxton",
-      "status": "Day-To-Day"
-    },
-    {
-      "team": "",
-      "player": "Nikola Topic",
       "status": "Day-To-Day"
     },
     {
@@ -299,27 +264,17 @@
     },
     {
       "team": "",
-      "player": "Tacko Fall",
-      "status": "Day-To-Day"
-    },
-    {
-      "team": "",
       "player": "Tarik Biberovic",
       "status": "Day-To-Day"
     },
     {
       "team": "",
-      "player": "Thomas Sorber",
+      "player": "Taurean Prince",
       "status": "Day-To-Day"
     },
     {
       "team": "",
       "player": "Tobe Awaka",
-      "status": "Day-To-Day"
-    },
-    {
-      "team": "",
-      "player": "Tobias Harris",
       "status": "Day-To-Day"
     },
     {
@@ -355,6 +310,11 @@
     {
       "team": "",
       "player": "Devin Carter",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Dominick Barlow",
       "status": "Out"
     },
     {
@@ -409,11 +369,6 @@
     },
     {
       "team": "",
-      "player": "Joshua Jefferson",
-      "status": "Out"
-    },
-    {
-      "team": "",
       "player": "Julian Strawther",
       "status": "Out"
     },
@@ -449,6 +404,21 @@
     },
     {
       "team": "",
+      "player": "Mouhamed Gueye",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Nic Claxton",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Nikola Topic",
+      "status": "Out"
+    },
+    {
+      "team": "",
       "player": "Noah Penda",
       "status": "Out"
     },
@@ -464,7 +434,27 @@
     },
     {
       "team": "",
+      "player": "Tacko Fall",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Thomas Sorber",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Tobias Harris",
+      "status": "Out"
+    },
+    {
+      "team": "",
       "player": "Tristan Vukcevic",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Tyler Bilodeau",
       "status": "Out"
     },
     {
