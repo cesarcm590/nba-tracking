@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T14:24:14.123246Z",
+  "last_updated": "2026-10-24T13:11:27.240046Z",
   "season": "2026-27",
   "metrics": {
     "n_games": 0,
@@ -9,47 +9,137 @@
     "rmse_total": null,
     "mae_vegas_total": null
   },
-  "predictions_today": [],
+  "predictions_today": [
+    {
+      "game_id": "ESPN_401909096",
+      "home": "SA",
+      "away": "HOU",
+      "pred_home": 118.8,
+      "pred_away": 108.0,
+      "pred_total": 226.8,
+      "vegas_ou": 224.5,
+      "actual_home": null,
+      "actual_away": null
+    },
+    {
+      "game_id": "ESPN_401909847",
+      "home": "MIA",
+      "away": "DET",
+      "pred_home": 118.8,
+      "pred_away": 108.0,
+      "pred_total": 226.8,
+      "vegas_ou": 235.5,
+      "actual_home": null,
+      "actual_away": null
+    },
+    {
+      "game_id": "ESPN_401909849",
+      "home": "UTAH",
+      "away": "NO",
+      "pred_home": 118.8,
+      "pred_away": 108.0,
+      "pred_total": 226.8,
+      "vegas_ou": 239.5,
+      "actual_home": null,
+      "actual_away": null
+    },
+    {
+      "game_id": "ESPN_401909850",
+      "home": "GS",
+      "away": "MEM",
+      "pred_home": 118.8,
+      "pred_away": 108.0,
+      "pred_total": 226.8,
+      "vegas_ou": 237.5,
+      "actual_home": null,
+      "actual_away": null
+    },
+    {
+      "game_id": "ESPN_401909851",
+      "home": "LAL",
+      "away": "LAC",
+      "pred_home": 118.8,
+      "pred_away": 108.0,
+      "pred_total": 226.8,
+      "vegas_ou": 225.5,
+      "actual_home": null,
+      "actual_away": null
+    },
+    {
+      "game_id": "ESPN_401909852",
+      "home": "SAC",
+      "away": "POR",
+      "pred_home": 118.8,
+      "pred_away": 108.0,
+      "pred_total": 226.8,
+      "vegas_ou": 232.5,
+      "actual_home": null,
+      "actual_away": null
+    },
+    {
+      "game_id": "ESPN_401909853",
+      "home": "CHA",
+      "away": "MIA",
+      "pred_home": 110.6,
+      "pred_away": 108.3,
+      "pred_total": 218.9,
+      "vegas_ou": 229.5,
+      "actual_home": null,
+      "actual_away": null
+    },
+    {
+      "game_id": "ESPN_401909854",
+      "home": "CLE",
+      "away": "BKN",
+      "pred_home": 118.8,
+      "pred_away": 108.0,
+      "pred_total": 226.8,
+      "vegas_ou": 227.5,
+      "actual_home": null,
+      "actual_away": null
+    },
+    {
+      "game_id": "ESPN_401909855",
+      "home": "PHI",
+      "away": "MIL",
+      "pred_home": 110.8,
+      "pred_away": 118.7,
+      "pred_total": 229.5,
+      "vegas_ou": 234.5,
+      "actual_home": null,
+      "actual_away": null
+    }
+  ],
   "recent_results": [],
   "injury_report": [
     {
       "team": "",
-      "player": "Aaron Nesmith",
+      "player": "AJ Dybantsa",
       "status": "Day-To-Day"
     },
     {
       "team": "",
-      "player": "Ben Sheppard",
+      "player": "Alpha Diallo",
       "status": "Day-To-Day"
     },
     {
       "team": "",
-      "player": "Brandin Podziemski",
+      "player": "Anthony Black",
       "status": "Day-To-Day"
     },
     {
       "team": "",
-      "player": "Cameron Johnson",
+      "player": "Ausar Thompson",
       "status": "Day-To-Day"
     },
     {
       "team": "",
-      "player": "Cedric Coward",
+      "player": "Caleb Martin",
       "status": "Day-To-Day"
     },
     {
       "team": "",
-      "player": "Charles Bassey",
-      "status": "Day-To-Day"
-    },
-    {
-      "team": "",
-      "player": "Dailyn Swain",
-      "status": "Day-To-Day"
-    },
-    {
-      "team": "",
-      "player": "De'Aaron Fox",
+      "player": "Coby White",
       "status": "Day-To-Day"
     },
     {
@@ -59,17 +149,12 @@
     },
     {
       "team": "",
-      "player": "Felix Okpara",
+      "player": "Grant Williams",
       "status": "Day-To-Day"
     },
     {
       "team": "",
-      "player": "Isaiah Stewart",
-      "status": "Day-To-Day"
-    },
-    {
-      "team": "",
-      "player": "Jake LaRavia",
+      "player": "Jalen Duren",
       "status": "Day-To-Day"
     },
     {
@@ -79,22 +164,17 @@
     },
     {
       "team": "",
-      "player": "Joel Embiid",
+      "player": "Jonathan Isaac",
       "status": "Day-To-Day"
     },
     {
       "team": "",
-      "player": "Jordan Hawkins",
+      "player": "Kon Knueppel",
       "status": "Day-To-Day"
     },
     {
       "team": "",
-      "player": "Josh Giddey",
-      "status": "Day-To-Day"
-    },
-    {
-      "team": "",
-      "player": "Keldon Johnson",
+      "player": "LeBron James",
       "status": "Day-To-Day"
     },
     {
@@ -104,63 +184,33 @@
     },
     {
       "team": "",
-      "player": "Malik Monk",
-      "status": "Day-To-Day"
-    },
-    {
-      "team": "",
       "player": "Oso Ighodaro",
       "status": "Day-To-Day"
     },
     {
       "team": "",
-      "player": "Reed Sheppard",
+      "player": "Paolo Banchero",
       "status": "Day-To-Day"
     },
     {
       "team": "",
-      "player": "Spencer Jones",
+      "player": "Santi Aldama",
       "status": "Day-To-Day"
     },
     {
       "team": "",
-      "player": "Steven Adams",
+      "player": "T.J. McConnell",
       "status": "Day-To-Day"
     },
     {
       "team": "",
-      "player": "Tacko Fall",
+      "player": "Tarik Biberovic",
       "status": "Day-To-Day"
     },
     {
       "team": "",
-      "player": "Taurean Prince",
+      "player": "Yves Missi",
       "status": "Day-To-Day"
-    },
-    {
-      "team": "",
-      "player": "Tobe Awaka",
-      "status": "Day-To-Day"
-    },
-    {
-      "team": "",
-      "player": "Tony Bradley",
-      "status": "Day-To-Day"
-    },
-    {
-      "team": "",
-      "player": "Tyler Bilodeau",
-      "status": "Day-To-Day"
-    },
-    {
-      "team": "",
-      "player": "Zach Collins",
-      "status": "Day-To-Day"
-    },
-    {
-      "team": "",
-      "player": "AJ Dybantsa",
-      "status": "Out"
     },
     {
       "team": "",
@@ -169,12 +219,12 @@
     },
     {
       "team": "",
-      "player": "Anthony Black",
+      "player": "Ariel Hukporti",
       "status": "Out"
     },
     {
       "team": "",
-      "player": "Ariel Hukporti",
+      "player": "Ben Sheppard",
       "status": "Out"
     },
     {
@@ -199,12 +249,22 @@
     },
     {
       "team": "",
-      "player": "Caleb Martin",
+      "player": "Cameron Carr",
       "status": "Out"
     },
     {
       "team": "",
-      "player": "Cameron Carr",
+      "player": "Cameron Johnson",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Cedric Coward",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Charles Bassey",
       "status": "Out"
     },
     {
@@ -214,7 +274,7 @@
     },
     {
       "team": "",
-      "player": "Coby White",
+      "player": "Cooper Flagg",
       "status": "Out"
     },
     {
@@ -244,17 +304,17 @@
     },
     {
       "team": "",
-      "player": "Grant Williams",
-      "status": "Out"
-    },
-    {
-      "team": "",
       "player": "Henri Veesaar",
       "status": "Out"
     },
     {
       "team": "",
       "player": "Izaiyah Nelson",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Jake LaRavia",
       "status": "Out"
     },
     {
@@ -279,11 +339,6 @@
     },
     {
       "team": "",
-      "player": "Jonathan Isaac",
-      "status": "Out"
-    },
-    {
-      "team": "",
       "player": "Jordan Miller",
       "status": "Out"
     },
@@ -295,11 +350,6 @@
     {
       "team": "",
       "player": "Jusuf Nurkic",
-      "status": "Out"
-    },
-    {
-      "team": "",
-      "player": "Kon Knueppel",
       "status": "Out"
     },
     {
@@ -364,7 +414,7 @@
     },
     {
       "team": "",
-      "player": "Santi Aldama",
+      "player": "Reed Sheppard",
       "status": "Out"
     },
     {
@@ -374,12 +424,12 @@
     },
     {
       "team": "",
-      "player": "T.J. McConnell",
+      "player": "Spencer Jones",
       "status": "Out"
     },
     {
       "team": "",
-      "player": "Tarik Biberovic",
+      "player": "Tacko Fall",
       "status": "Out"
     },
     {
@@ -400,6 +450,11 @@
     {
       "team": "",
       "player": "Tristan Vukcevic",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Tyler Bilodeau",
       "status": "Out"
     },
     {
