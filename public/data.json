@@ -1,40 +1,288 @@
 {
-  "last_updated": "2026-11-05T13:23:03.257323Z",
+  "last_updated": "2026-11-06T14:55:36.176285Z",
   "season": "2026-27",
   "metrics": {
-    "n_games": 86,
-    "mae_home": 10.7,
-    "mae_away": 11.0,
-    "mae_total": 16.5,
-    "rmse_total": 20.9,
-    "mae_vegas_total": 14.9,
+    "n_games": 88,
+    "mae_home": 10.6,
+    "mae_away": 11.2,
+    "mae_total": 16.3,
+    "rmse_total": 20.7,
+    "mae_vegas_total": 14.8,
     "n_invalid": 12
   },
   "predictions_today": [
     {
-      "game_id": "ESPN_401909936",
-      "home": "PHX",
-      "away": "ORL",
-      "pred_home": 106.6,
-      "pred_away": 118.7,
-      "pred_total": 225.3,
-      "vegas_ou": 223.5,
+      "game_id": "ESPN_401909287",
+      "home": "ATL",
+      "away": "WSH",
+      "pred_home": 114.2,
+      "pred_away": 112.7,
+      "pred_total": 227.0,
+      "vegas_ou": 228.5,
       "actual_home": null,
       "actual_away": null
     },
     {
-      "game_id": "ESPN_401909937",
-      "home": "GS",
-      "away": "MIA",
-      "pred_home": 116.4,
-      "pred_away": 117.7,
-      "pred_total": 234.2,
-      "vegas_ou": 235.5,
+      "game_id": "ESPN_401909288",
+      "home": "CHA",
+      "away": "BOS",
+      "pred_home": 106.3,
+      "pred_away": 104.8,
+      "pred_total": 211.1,
+      "vegas_ou": 207.5,
+      "actual_home": null,
+      "actual_away": null
+    },
+    {
+      "game_id": "ESPN_401909289",
+      "home": "CLE",
+      "away": "PHI",
+      "pred_home": 113.3,
+      "pred_away": 109.3,
+      "pred_total": 222.6,
+      "vegas_ou": 230.5,
+      "actual_home": null,
+      "actual_away": null
+    },
+    {
+      "game_id": "ESPN_401909290",
+      "home": "DAL",
+      "away": "UTAH",
+      "pred_home": 122.7,
+      "pred_away": 110.4,
+      "pred_total": 233.1,
+      "vegas_ou": 226.5,
+      "actual_home": null,
+      "actual_away": null
+    },
+    {
+      "game_id": "ESPN_401909291",
+      "home": "MEM",
+      "away": "OKC",
+      "pred_home": 116.2,
+      "pred_away": 111.6,
+      "pred_total": 227.7,
+      "vegas_ou": 224.5,
+      "actual_home": null,
+      "actual_away": null
+    },
+    {
+      "game_id": "ESPN_401909292",
+      "home": "MIL",
+      "away": "TOR",
+      "pred_home": 107.1,
+      "pred_away": 119.0,
+      "pred_total": 226.1,
+      "vegas_ou": 230.5,
+      "actual_home": null,
+      "actual_away": null
+    },
+    {
+      "game_id": "ESPN_401909293",
+      "home": "NO",
+      "away": "MIN",
+      "pred_home": 113.3,
+      "pred_away": 112.7,
+      "pred_total": 226.1,
+      "vegas_ou": 230.5,
+      "actual_home": null,
+      "actual_away": null
+    },
+    {
+      "game_id": "ESPN_401909294",
+      "home": "LAL",
+      "away": "POR",
+      "pred_home": 112.3,
+      "pred_away": 112.0,
+      "pred_total": 224.3,
+      "vegas_ou": 231.5,
+      "actual_home": null,
+      "actual_away": null
+    },
+    {
+      "game_id": "ESPN_401909295",
+      "home": "SAC",
+      "away": "SA",
+      "pred_home": 110.5,
+      "pred_away": 119.3,
+      "pred_total": 229.9,
+      "vegas_ou": 228.5,
       "actual_home": null,
       "actual_away": null
     }
   ],
   "history": [
+    {
+      "game_id": "ESPN_401909287",
+      "date": "2026-11-06",
+      "home": "ATL",
+      "away": "WSH",
+      "model_version": "v20261102",
+      "predicted_at": "2026-11-06T14:55:35.633938",
+      "tip_off": "2026-11-07T00:00:00",
+      "valid": true,
+      "pred_home": 114.2,
+      "pred_away": 112.7,
+      "pred_total": 227.0,
+      "actual_home": null,
+      "actual_away": null,
+      "actual_total": null,
+      "vegas_ou": 228.5,
+      "error_total": null,
+      "error_vegas": null
+    },
+    {
+      "game_id": "ESPN_401909288",
+      "date": "2026-11-06",
+      "home": "CHA",
+      "away": "BOS",
+      "model_version": "v20261102",
+      "predicted_at": "2026-11-06T14:55:35.633938",
+      "tip_off": "2026-11-07T00:00:00",
+      "valid": true,
+      "pred_home": 106.3,
+      "pred_away": 104.8,
+      "pred_total": 211.1,
+      "actual_home": null,
+      "actual_away": null,
+      "actual_total": null,
+      "vegas_ou": 207.5,
+      "error_total": null,
+      "error_vegas": null
+    },
+    {
+      "game_id": "ESPN_401909289",
+      "date": "2026-11-06",
+      "home": "CLE",
+      "away": "PHI",
+      "model_version": "v20261102",
+      "predicted_at": "2026-11-06T14:55:35.633938",
+      "tip_off": "2026-11-07T00:30:00",
+      "valid": true,
+      "pred_home": 113.3,
+      "pred_away": 109.3,
+      "pred_total": 222.6,
+      "actual_home": null,
+      "actual_away": null,
+      "actual_total": null,
+      "vegas_ou": 230.5,
+      "error_total": null,
+      "error_vegas": null
+    },
+    {
+      "game_id": "ESPN_401909290",
+      "date": "2026-11-06",
+      "home": "DAL",
+      "away": "UTAH",
+      "model_version": "v20261102",
+      "predicted_at": "2026-11-06T14:55:35.633938",
+      "tip_off": "2026-11-07T01:00:00",
+      "valid": true,
+      "pred_home": 122.7,
+      "pred_away": 110.4,
+      "pred_total": 233.1,
+      "actual_home": null,
+      "actual_away": null,
+      "actual_total": null,
+      "vegas_ou": 226.5,
+      "error_total": null,
+      "error_vegas": null
+    },
+    {
+      "game_id": "ESPN_401909291",
+      "date": "2026-11-06",
+      "home": "MEM",
+      "away": "OKC",
+      "model_version": "v20261102",
+      "predicted_at": "2026-11-06T14:55:35.633938",
+      "tip_off": "2026-11-07T01:00:00",
+      "valid": true,
+      "pred_home": 116.2,
+      "pred_away": 111.6,
+      "pred_total": 227.7,
+      "actual_home": null,
+      "actual_away": null,
+      "actual_total": null,
+      "vegas_ou": 224.5,
+      "error_total": null,
+      "error_vegas": null
+    },
+    {
+      "game_id": "ESPN_401909292",
+      "date": "2026-11-06",
+      "home": "MIL",
+      "away": "TOR",
+      "model_version": "v20261102",
+      "predicted_at": "2026-11-06T14:55:35.633938",
+      "tip_off": "2026-11-07T01:00:00",
+      "valid": true,
+      "pred_home": 107.1,
+      "pred_away": 119.0,
+      "pred_total": 226.1,
+      "actual_home": null,
+      "actual_away": null,
+      "actual_total": null,
+      "vegas_ou": 230.5,
+      "error_total": null,
+      "error_vegas": null
+    },
+    {
+      "game_id": "ESPN_401909293",
+      "date": "2026-11-06",
+      "home": "NO",
+      "away": "MIN",
+      "model_version": "v20261102",
+      "predicted_at": "2026-11-06T14:55:35.633938",
+      "tip_off": "2026-11-07T01:00:00",
+      "valid": true,
+      "pred_home": 113.3,
+      "pred_away": 112.7,
+      "pred_total": 226.1,
+      "actual_home": null,
+      "actual_away": null,
+      "actual_total": null,
+      "vegas_ou": 230.5,
+      "error_total": null,
+      "error_vegas": null
+    },
+    {
+      "game_id": "ESPN_401909294",
+      "date": "2026-11-06",
+      "home": "LAL",
+      "away": "POR",
+      "model_version": "v20261102",
+      "predicted_at": "2026-11-06T14:55:35.633938",
+      "tip_off": "2026-11-07T03:00:00",
+      "valid": true,
+      "pred_home": 112.3,
+      "pred_away": 112.0,
+      "pred_total": 224.3,
+      "actual_home": null,
+      "actual_away": null,
+      "actual_total": null,
+      "vegas_ou": 231.5,
+      "error_total": null,
+      "error_vegas": null
+    },
+    {
+      "game_id": "ESPN_401909295",
+      "date": "2026-11-06",
+      "home": "SAC",
+      "away": "SA",
+      "model_version": "v20261102",
+      "predicted_at": "2026-11-06T14:55:35.633938",
+      "tip_off": "2026-11-07T03:00:00",
+      "valid": true,
+      "pred_home": 110.5,
+      "pred_away": 119.3,
+      "pred_total": 229.9,
+      "actual_home": null,
+      "actual_away": null,
+      "actual_total": null,
+      "vegas_ou": 228.5,
+      "error_total": null,
+      "error_vegas": null
+    },
     {
       "game_id": "ESPN_401909936",
       "date": "2026-11-05",
@@ -47,12 +295,12 @@
       "pred_home": 106.6,
       "pred_away": 118.7,
       "pred_total": 225.3,
-      "actual_home": null,
-      "actual_away": null,
-      "actual_total": null,
+      "actual_home": 117,
+      "actual_away": 104,
+      "actual_total": 221,
       "vegas_ou": 223.5,
-      "error_total": null,
-      "error_vegas": null
+      "error_total": 4.3,
+      "error_vegas": 2.5
     },
     {
       "game_id": "ESPN_401909937",
@@ -66,12 +314,12 @@
       "pred_home": 116.4,
       "pred_away": 117.7,
       "pred_total": 234.2,
-      "actual_home": null,
-      "actual_away": null,
-      "actual_total": null,
+      "actual_home": 120,
+      "actual_away": 100,
+      "actual_total": 220,
       "vegas_ou": 235.5,
-      "error_total": null,
-      "error_vegas": null
+      "error_total": 14.2,
+      "error_vegas": 15.5
     },
     {
       "game_id": "ESPN_401909922",
@@ -1944,7 +2192,12 @@
     },
     {
       "team": "",
-      "player": "Asa Newell",
+      "player": "Anthony Davis",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Clint Capela",
       "status": "Day-To-Day"
     },
     {
@@ -1954,7 +2207,22 @@
     },
     {
       "team": "",
-      "player": "Isaiah Stewart",
+      "player": "DeMar DeRozan",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Dennis Schroder",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Gui Santos",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Jalen Johnson",
       "status": "Day-To-Day"
     },
     {
@@ -1969,12 +2237,67 @@
     },
     {
       "team": "",
+      "player": "Jordan Goodwin",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Josh Hart",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Kelly Oubre Jr.",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Max Christie",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Moussa Diabate",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
       "player": "Noah Clowney",
       "status": "Day-To-Day"
     },
     {
       "team": "",
       "player": "Payton Pritchard",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Peyton Watson",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Rasheer Fleming",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Sandro Mamukelashvili",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Scottie Barnes",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Terrence Shannon Jr.",
+      "status": "Day-To-Day"
+    },
+    {
+      "team": "",
+      "player": "Trey Murphy III",
       "status": "Day-To-Day"
     },
     {
@@ -1989,17 +2312,17 @@
     },
     {
       "team": "",
-      "player": "Adou Thiero",
-      "status": "Out"
-    },
-    {
-      "team": "",
       "player": "Anthony Edwards",
       "status": "Out"
     },
     {
       "team": "",
       "player": "Ariel Hukporti",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Asa Newell",
       "status": "Out"
     },
     {
@@ -2034,21 +2357,6 @@
     },
     {
       "team": "",
-      "player": "Clint Capela",
-      "status": "Out"
-    },
-    {
-      "team": "",
-      "player": "Daeqwon Plowden",
-      "status": "Out"
-    },
-    {
-      "team": "",
-      "player": "DeMar DeRozan",
-      "status": "Out"
-    },
-    {
-      "team": "",
       "player": "Dereck Lively II",
       "status": "Out"
     },
@@ -2079,17 +2387,17 @@
     },
     {
       "team": "",
-      "player": "Gui Santos",
-      "status": "Out"
-    },
-    {
-      "team": "",
       "player": "Henri Veesaar",
       "status": "Out"
     },
     {
       "team": "",
       "player": "Isaiah Joe",
+      "status": "Out"
+    },
+    {
+      "team": "",
+      "player": "Isaiah Stewart",
       "status": "Out"
     },
     {
@@ -2105,11 +2413,6 @@
     {
       "team": "",
       "player": "Jalen Duren",
-      "status": "Out"
-    },
-    {
-      "team": "",
-      "player": "Jalen Johnson",
       "status": "Out"
     },
     {
@@ -2149,11 +2452,6 @@
     },
     {
       "team": "",
-      "player": "Jayson Tatum",
-      "status": "Out"
-    },
-    {
-      "team": "",
       "player": "Jimmy Butler III",
       "status": "Out"
     },
@@ -2174,17 +2472,7 @@
     },
     {
       "team": "",
-      "player": "Jordan Goodwin",
-      "status": "Out"
-    },
-    {
-      "team": "",
       "player": "Jordan Miller",
-      "status": "Out"
-    },
-    {
-      "team": "",
-      "player": "Josh Hart",
       "status": "Out"
     },
     {
@@ -2219,7 +2507,7 @@
     },
     {
       "team": "",
-      "player": "Kelly Oubre Jr.",
+      "player": "Keshon Gilbert",
       "status": "Out"
     },
     {
@@ -2235,11 +2523,6 @@
     {
       "team": "",
       "player": "Mark Williams",
-      "status": "Out"
-    },
-    {
-      "team": "",
-      "player": "Max Christie",
       "status": "Out"
     },
     {
@@ -2280,16 +2563,6 @@
     {
       "team": "",
       "player": "Paolo Banchero",
-      "status": "Out"
-    },
-    {
-      "team": "",
-      "player": "Peyton Watson",
-      "status": "Out"
-    },
-    {
-      "team": "",
-      "player": "Rasheer Fleming",
       "status": "Out"
     },
     {
@@ -2339,11 +2612,6 @@
     },
     {
       "team": "",
-      "player": "Terrence Shannon Jr.",
-      "status": "Out"
-    },
-    {
-      "team": "",
       "player": "Thomas Sorber",
       "status": "Out"
     },
@@ -2355,11 +2623,6 @@
     {
       "team": "",
       "player": "Trey Alexander",
-      "status": "Out"
-    },
-    {
-      "team": "",
-      "player": "Trey Murphy III",
       "status": "Out"
     },
     {
